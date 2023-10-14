@@ -5,7 +5,7 @@ using TDD.Domain.Model;
 
 namespace TDD.Api.Controllers.v1
 {
-    [Route("api/[controller]")]
+    [Route("api/[controller]/v1")]
     [ApiController]
     public class CustomerController : ControllerBase
     {
