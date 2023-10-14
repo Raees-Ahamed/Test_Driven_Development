@@ -3,7 +3,7 @@ using Microsoft.AspNetCore.Mvc;
 using TDD.Domain.Interface;
 using TDD.Domain.Model;
 
-namespace TDD.Controllers
+namespace TDD.Api.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
